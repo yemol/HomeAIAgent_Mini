@@ -1,0 +1,7 @@
+.pio/
+.vscode/
+include/secrets.h
+.DS_Store
+.pio-core/
+.pio-local/
+.pio-venv/
